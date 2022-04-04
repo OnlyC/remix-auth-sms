@@ -1,5 +1,5 @@
 {
-  "name": "remix-auth-strategy-template",
+  "name": "remix-auth-sms",
   "version": "0.0.0",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -18,6 +18,11 @@
     "strategy"
   ],
   "license": "MIT",
+  "author": {
+    "name": "Minh Nguyen",
+    "email": "onlyc.minh@gmail.com",
+    "url": "https://github.com/OnlyC"
+  },
   "files": [
     "build",
     "package.json",
